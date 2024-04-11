@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **CGI,Chennai**
 - An Experienced Testing Consultant with a demonstrated history of working in the information technology and services industry. Highly skilled in the Programming language - Java, Python and automation tools such as Selenium, PyTest, TestNG, TDD, BDD, Cucumber, API automation, Postman, and MySql. Excellent knowledge of complete phases of product development from Requirement gathering, design, Software development, Maintenance, Testing, and Application support. Worked with clients to build a high-level automation regression for web  along with project management configuration such as AWS, Git, Jenkins, and JIRA.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:maheshpriyamca19@gmail.com</h3>
 <p align="left">
 </p>
 
